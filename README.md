@@ -4,12 +4,12 @@
 <h1>
     <img align="right" alt="Coding" width="580" height="320" src="assets/code.gif">
 </h1>
-<h1 align="center">I'm a python backend developer :computer: </h1>
+<h1 align="center">I'm a python software engineer :computer: </h1>
 <h1>About me :smirk: :</h1>
 <p>
-    <a href="https://t.me/sergei_rusanow"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
-    <a href="https://vk.com/i_am_rock_32"> <img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white"></a>
-    <a href="https://e.mail.ru/inbox/?back=1"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <a href="https://t.me/sergei_rusanow"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="tg"></a> 
+    <a href="https://vk.com/i_am_rock_32"> <img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white" alt="vk"></a>
+    <a href="https://e.mail.ru/inbox/?back=1"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"></a>
 </p>
 
 <h1>Working with systems :relieved: :</h1>
