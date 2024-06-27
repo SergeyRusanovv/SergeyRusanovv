@@ -39,9 +39,9 @@
 
 ---
 
-<h1 align="left">:hammer_and_wrench: My skills :</h1>
+<h1 align="left"> My skills: :hammer_and_wrench:</h1>
 <ul>
-    <h3 align="left">Languages and frameworks: :bookmark_tabs:</h3>
+    <h3 align="left">Languages and frameworks: :bulb:</h3>
     <li style="list-style-type: none;">
         <img src="assets/python-original-wordmark.svg" width="60" height="60">
         <img src="assets/pycharm-original.svg" width="60" height="60">
@@ -50,7 +50,7 @@
         <img src="assets/djangorest-original.svg" width="60" height="60">
         <img src="assets/flask-original-wordmark.svg" width="60" height="60">
     </li>
-    <h3 align="left">Вatabases and tools for interacting with them: :bookmark_tabs:</h3>
+    <h3 align="left">Вatabases and tools for interacting with them: :chart_with_upwards_trend:</h3>
     <li style="list-style-type: none;">
         <img src="assets/postgresql-original-wordmark.svg" width="60" height="60">
         <img src="assets/redis-original-wordmark.svg" width="60" height="60">
@@ -58,7 +58,7 @@
         <img src="assets/sqlalchemy-original-wordmark.svg" width="60" height="60">
         <img src="assets/dbeaver-original.svg" width="60" height="60">
    </li>
-    <h3 align="left">Frontend: :dizzy:</h3>
+    <h3 align="left">Frontend: :art: </h3>
     <li style="list-style-type: none;">
         <img src="assets/html5-original.svg" width="60" height="60">
         <img src="assets/css3-original.svg" width="60" height="60">
