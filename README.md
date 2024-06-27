@@ -39,36 +39,51 @@
 
 ---
 
-<h1 align="left">:hammer_and_wrench: :blue_book: Languages and Tools :</h1>
-<p align="center">
-    <img src="assets/python-original-wordmark.svg" width="60" height="60">
-    <img src="assets/pycharm-original.svg" width="60" height="60">
-    <img src="assets/fastapi-original-wordmark.svg" width="60" height="60">
-    <img src="assets/django-plain-wordmark.svg" width="60" height="60">
-    <img src="assets/djangorest-original.svg" width="60" height="60">
-    <img src="assets/flask-original-wordmark.svg" width="60" height="60">
-    <img src="assets/postgresql-original-wordmark.svg" width="60" height="60">
-    <img src="assets/redis-original-wordmark.svg" width="60" height="60">
-    <img src="assets/sqlite-original-wordmark.svg" width="60" height="60">
-    <img src="assets/sqlalchemy-original-wordmark.svg" width="60" height="60">
-    <img src="assets/dbeaver-original.svg" width="60" height="60">
-    <img src="assets/html5-original.svg" width="60" height="60">
-    <img src="assets/css3-original.svg" width="60" height="60">
-    <img src="assets/markdown-original.svg" width="60" height="60">
-    <img src="assets/bash-plain.svg" width="60" height="60">
-    <img src="assets/docker-original.svg" width="60" height="60">
-    <img src="assets/git-original-wordmark.svg" width="60" height="60">
-    <img src="assets/github-original-wordmark.svg" width="60" height="60">
-    <img src="assets/gitlab-original-wordmark.svg" width="60" height="60">
-    <img src="assets/postman-original.svg" width="60" height="60">
-    <img src="assets/insomnia-original.svg" width="60" height="60">
-    <img src="assets/swagger-original-wordmark.svg" width="60" height="60">
-    <img src="assets/poetry-original.svg" width="60" height="60">
-    <img src="assets/rabbitmq-original-wordmark.svg" width="60" height="60"> 
-    <img src="assets/linux-original.svg" width="60" height="60">
-    <img src="assets/ubuntu-original-wordmark.svg" width="60" height="60">
-    <img src="assets/windows11-original-wordmark.svg" width="60" height="60">
-</p>
+<h1 align="left">:hammer_and_wrench: My skills :</h1>
+<ul>
+    <h3 align="left">Languages and frameworks: :bookmark_tabs:</h3>
+    <li style="list-style-type: none;">
+        <img src="assets/python-original-wordmark.svg" width="60" height="60">
+        <img src="assets/pycharm-original.svg" width="60" height="60">
+        <img src="assets/fastapi-original-wordmark.svg" width="60" height="60">
+        <img src="assets/django-plain-wordmark.svg" width="60" height="60">
+        <img src="assets/djangorest-original.svg" width="60" height="60">
+        <img src="assets/flask-original-wordmark.svg" width="60" height="60">
+    </li>
+    <h3 align="left">Вatabases and tools for interacting with them: :bookmark_tabs:</h3>
+    <li style="list-style-type: none;">
+        <img src="assets/postgresql-original-wordmark.svg" width="60" height="60">
+        <img src="assets/redis-original-wordmark.svg" width="60" height="60">
+        <img src="assets/sqlite-original-wordmark.svg" width="60" height="60">
+        <img src="assets/sqlalchemy-original-wordmark.svg" width="60" height="60">
+        <img src="assets/dbeaver-original.svg" width="60" height="60">
+   </li>
+    <h3 align="left">Frontend: :dizzy:</h3>
+    <li style="list-style-type: none;">
+        <img src="assets/html5-original.svg" width="60" height="60">
+        <img src="assets/css3-original.svg" width="60" height="60">
+        <img src="assets/markdown-original.svg" width="60" height="60">
+    </li>
+    <h3 align="left">OS: :gift_heart:</h3>
+    <li style="list-style-type: none;">
+        <img src="assets/linux-original.svg" width="60" height="60">
+        <img src="assets/ubuntu-original-wordmark.svg" width="60" height="60">
+        <img src="assets/windows11-original-wordmark.svg" width="60" height="60">
+    </li>
+    <h3 align="left">Other tools and technologies: :raised_hands:</h3>
+    <li style="list-style-type: none;">
+        <img src="assets/bash-plain.svg" width="60" height="60">
+        <img src="assets/docker-original.svg" width="60" height="60">
+        <img src="assets/git-original-wordmark.svg" width="60" height="60">
+        <img src="assets/github-original-wordmark.svg" width="60" height="60">
+        <img src="assets/gitlab-original-wordmark.svg" width="60" height="60">
+        <img src="assets/postman-original.svg" width="60" height="60">
+        <img src="assets/insomnia-original.svg" width="60" height="60">
+        <img src="assets/swagger-original-wordmark.svg" width="60" height="60">
+        <img src="assets/poetry-original.svg" width="60" height="60">
+        <img src="assets/rabbitmq-original-wordmark.svg" width="60" height="60"> 
+    </li>
+</ul>
 
 ---
 
