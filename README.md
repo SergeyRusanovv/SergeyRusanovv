@@ -10,11 +10,16 @@
 </div>
 
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=SergeyRusanovv&style=flat-square&color=blue" alt=""/>
+    <img src="https://komarev.com/ghpvc/?username=SergeyRusanovv&style=flat-square&color=blue" alt=""/> 
+    <img src="https://badgen.net/badge/hello/world/red?icon=twitter" alt=""/>
 </div>
 
 <h1 align="center">
-   Hi there! :computer:
+    <p align="center">
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+there!+My+name+is+Sergei!" alt="Typing SVG" />
+      </a>
+    </p>
     <p>
         <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
         <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -40,50 +45,38 @@
 ---
 
 <h1 align="left"> My skills: :hammer_and_wrench:</h1>
-<ul>
+<div align="left">
     <h3 align="left">Languages and frameworks: :bulb:</h3>
-    <li style="list-style-type: none;">
-        <img src="assets/python-original-wordmark.svg" width="60" height="60">
-        <img src="assets/pycharm-original.svg" width="60" height="60">
-        <img src="assets/fastapi-original-wordmark.svg" width="60" height="60">
-        <img src="assets/django-plain-wordmark.svg" width="60" height="60">
-        <img src="assets/djangorest-original.svg" width="60" height="60">
-        <img src="assets/flask-original-wordmark.svg" width="60" height="60">
-    </li>
-    <h3 align="left">Вatabases and tools for interacting with them: :chart_with_upwards_trend:</h3>
-    <li style="list-style-type: none;">
-        <img src="assets/postgresql-original-wordmark.svg" width="60" height="60">
-        <img src="assets/redis-original-wordmark.svg" width="60" height="60">
-        <img src="assets/sqlite-original-wordmark.svg" width="60" height="60">
-        <img src="assets/sqlalchemy-original-wordmark.svg" width="60" height="60">
-        <img src="assets/dbeaver-original.svg" width="60" height="60">
-   </li>
-    <h3 align="left">Frontend: :art: </h3>
-    <li style="list-style-type: none;">
-        <img src="assets/html5-original.svg" width="60" height="60">
-        <img src="assets/css3-original.svg" width="60" height="60">
-        <img src="assets/markdown-original.svg" width="60" height="60">
-    </li>
-    <h3 align="left">OS: :gift_heart:</h3>
-    <li style="list-style-type: none;">
-        <img src="assets/linux-original.svg" width="60" height="60">
-        <img src="assets/ubuntu-original-wordmark.svg" width="60" height="60">
-        <img src="assets/windows11-original-wordmark.svg" width="60" height="60">
-    </li>
-    <h3 align="left">Other tools and technologies: :raised_hands:</h3>
-    <li style="list-style-type: none;">
-        <img src="assets/bash-plain.svg" width="60" height="60">
-        <img src="assets/docker-original.svg" width="60" height="60">
-        <img src="assets/git-original-wordmark.svg" width="60" height="60">
-        <img src="assets/github-original-wordmark.svg" width="60" height="60">
-        <img src="assets/gitlab-original-wordmark.svg" width="60" height="60">
-        <img src="assets/postman-original.svg" width="60" height="60">
-        <img src="assets/insomnia-original.svg" width="60" height="60">
-        <img src="assets/swagger-original-wordmark.svg" width="60" height="60">
-        <img src="assets/poetry-original.svg" width="60" height="60">
-        <img src="assets/rabbitmq-original-wordmark.svg" width="60" height="60"> 
-    </li>
-</ul>
+
+| Python3 | PyCharm | FastAPI | Django | DRF |Flask|
+|---------|---------|---------|--------|-----|-----|
+|<img src="assets/python-original-wordmark.svg" width="60" height="60">|<img src="assets/pycharm-original.svg" width="60" height="60">|<img src="assets/fastapi-original-wordmark.svg" width="60" height="60">|<img src="assets/django-plain-wordmark.svg" width="60" height="60">|<img src="assets/djangorest-original.svg" width="60" height="60">|<img src="assets/flask-original-wordmark.svg" width="60" height="60">|
+
+<h3 align="left">Вatabases and tools for interacting with them: :chart_with_upwards_trend:</h3>
+
+| PostgreSQL | Redis | SQLAlchemy | DBeaver |
+|------------|-------|------------|---------|
+|<img src="assets/postgresql-original-wordmark.svg" width="60" height="60">|<img src="assets/redis-original-wordmark.svg" width="60" height="60">|<img src="assets/sqlalchemy-original-wordmark.svg" width="60" height="60">|<img src="assets/dbeaver-original.svg" width="60" height="60">|
+
+<h3 align="left">Frontend: :art: </h3>
+
+| CSS3 | HTML5 | Markdown |
+|------|-------|----------|
+|<img src="assets/html5-original.svg" width="60" height="60">|<img src="assets/css3-original.svg" width="60" height="60">|<img src="assets/markdown-original.svg" width="60" height="60">|
+
+<h3 align="left">OS: :gift_heart:</h3>
+
+| Linux | Ubuntu | Windows                                               |
+|-------|--------|-------------------------------------------------------|
+|<img src="assets/linux-original.svg" width="60" height="60">|<img src="assets/ubuntu-original-wordmark.svg" width="60" height="60">| <img src="assets/windows.png" width="60" height="60"> |
+
+<h3 align="left">Other tools and technologies: :raised_hands:</h3>
+
+| Bash | Docker | Git | GitHub | GitLab | Postman | Insomnia | Swagger | Poetry | RabbitMQ |
+|------|--------|-----|--------|--------|---------|----------|---------|--------|----------|
+|<img src="assets/bash-plain.svg" width="60" height="60">|<img src="assets/docker-original.svg" width="60" height="60">|<img src="assets/git-original-wordmark.svg" width="60" height="60">|<img src="assets/github-original-wordmark.svg" width="60" height="60">|<img src="assets/gitlab-original-wordmark.svg" width="60" height="60">|<img src="assets/postman-original.svg" width="60" height="60">|<img src="assets/insomnia-original.svg" width="60" height="60">|<img src="assets/swagger-original-wordmark.svg" width="60" height="60">|<img src="assets/poetry-original.svg" width="60" height="60">|<img src="assets/rabbitmq-original-wordmark.svg" width="60" height="60"> |
+
+</div>
 
 ---
 
