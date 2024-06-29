@@ -96,3 +96,7 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SergeyRusanovv&theme=github_dark" alt=""/>
      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SergeyRusanovv&theme=github_dark" alt=""/>
 </div>
+
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
