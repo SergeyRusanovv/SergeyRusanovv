@@ -52,7 +52,7 @@
 |---------|---------|---------|--------|-----|-----|
 |<img src="assets/python-original-wordmark.svg" width="60" height="60">|<img src="assets/pycharm-original.svg" width="60" height="60">|<img src="assets/fastapi-original-wordmark.svg" width="60" height="60">|<img src="assets/django-plain-wordmark.svg" width="60" height="60">|<img src="assets/djangorest-original.svg" width="60" height="60">|<img src="assets/flask-original-wordmark.svg" width="60" height="60">|
 
-<h3 align="left">Вatabases and tools for interacting with them: :chart_with_upwards_trend:</h3>
+<h3 align="left">Databases and tools for interacting with them: :chart_with_upwards_trend:</h3>
 
 | PostgreSQL | Redis | SQLAlchemy | DBeaver |
 |------------|-------|------------|---------|
