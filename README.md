@@ -54,9 +54,9 @@
 
 <h3 align="left">Databases and tools for interacting with them: :chart_with_upwards_trend:</h3>
 
-| PostgreSQL | Redis | SQLAlchemy | DBeaver |
-|------------|-------|------------|---------|
-|<img src="assets/postgresql-original-wordmark.svg" width="60" height="60">|<img src="assets/redis-original-wordmark.svg" width="60" height="60">|<img src="assets/sqlalchemy-original-wordmark.svg" width="60" height="60">|<img src="assets/dbeaver-original.svg" width="60" height="60">|
+| PostgreSQL | Redis | SQLAlchemy | DBeaver | ClickHouse                                               |
+|------------|-------|------------|---------|----------------------------------------------------------|
+|<img src="assets/postgresql-original-wordmark.svg" width="60" height="60">|<img src="assets/redis-original-wordmark.svg" width="60" height="60">|<img src="assets/sqlalchemy-original-wordmark.svg" width="60" height="60">|<img src="assets/dbeaver-original.svg" width="60" height="60">| <img src="assets/clickhouse.png" width="60" height="60"> |
 
 <h3 align="left">Frontend: :art: </h3>
 
@@ -72,9 +72,9 @@
 
 <h3 align="left">Other tools and technologies: :raised_hands:</h3>
 
-| Bash | Docker | Git | GitHub | GitLab | Postman | Insomnia | Swagger | Poetry | RabbitMQ |
-|------|--------|-----|--------|--------|---------|----------|---------|--------|----------|
-|<img src="assets/bash-plain.svg" width="60" height="60">|<img src="assets/docker-original.svg" width="60" height="60">|<img src="assets/git-original-wordmark.svg" width="60" height="60">|<img src="assets/github-original-wordmark.svg" width="60" height="60">|<img src="assets/gitlab-original-wordmark.svg" width="60" height="60">|<img src="assets/postman-original.svg" width="60" height="60">|<img src="assets/insomnia-original.svg" width="60" height="60">|<img src="assets/swagger-original-wordmark.svg" width="60" height="60">|<img src="assets/poetry-original.svg" width="60" height="60">|<img src="assets/rabbitmq-original-wordmark.svg" width="60" height="60"> |
+| Bash | Docker | Git | GitHub | GitLab | Postman | Insomnia | Swagger | Poetry | RabbitMQ | Kafka                                               |
+|------|--------|-----|--------|--------|---------|----------|---------|--------|----------|-----------------------------------------------------|
+|<img src="assets/bash-plain.svg" width="60" height="60">|<img src="assets/docker-original.svg" width="60" height="60">|<img src="assets/git-original-wordmark.svg" width="60" height="60">|<img src="assets/github-original-wordmark.svg" width="60" height="60">|<img src="assets/gitlab-original-wordmark.svg" width="60" height="60">|<img src="assets/postman-original.svg" width="60" height="60">|<img src="assets/insomnia-original.svg" width="60" height="60">|<img src="assets/swagger-original-wordmark.svg" width="60" height="60">|<img src="assets/poetry-original.svg" width="60" height="60">|<img src="assets/rabbitmq-original-wordmark.svg" width="60" height="60"> | <img src="assets/kafka.png" width="60" height="60"> |
 
 </div>
 
