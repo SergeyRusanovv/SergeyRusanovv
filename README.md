@@ -48,9 +48,9 @@
 <div align="left">
     <h3 align="left">Languages and frameworks: :bulb:</h3>
 
-| Python3 | PyCharm | FastAPI | Django | DRF |Flask|
-|---------|---------|---------|--------|-----|-----|
-|<img src="assets/python-original-wordmark.svg" width="60" height="60">|<img src="assets/pycharm-original.svg" width="60" height="60">|<img src="assets/fastapi-original-wordmark.svg" width="60" height="60">|<img src="assets/django-plain-wordmark.svg" width="60" height="60">|<img src="assets/djangorest-original.svg" width="60" height="60">|<img src="assets/flask-original-wordmark.svg" width="60" height="60">|
+| Python3 | PyCharm | FastAPI | Django | DRF |Flask| Pytest                                                        |
+|---------|---------|---------|--------|-----|-----|---------------------------------------------------------------|
+|<img src="assets/python-original-wordmark.svg" width="60" height="60">|<img src="assets/pycharm-original.svg" width="60" height="60">|<img src="assets/fastapi-original-wordmark.svg" width="60" height="60">|<img src="assets/django-plain-wordmark.svg" width="60" height="60">|<img src="assets/djangorest-original.svg" width="60" height="60">|<img src="assets/flask-original-wordmark.svg" width="60" height="60">| <img src="assets/pytest-original.svg" width="60" height="60"> |
 
 <h3 align="left">Databases and tools for interacting with them: :chart_with_upwards_trend:</h3>
 
