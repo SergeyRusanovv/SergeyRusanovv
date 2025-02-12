@@ -48,15 +48,15 @@
 <div align="left">
     <h3 align="left">Languages and frameworks: :bulb:</h3>
 
-| Python3 | PyCharm | FastAPI | Django | DRF |Flask| Pytest                                                        |
-|---------|---------|---------|--------|-----|-----|---------------------------------------------------------------|
+| Python3 | PyCharm | FastAPI | Django | DRF |Flask| Pytest |
+|---------|---------|---------|--------|-----|-----|--------|
 |<img src="assets/python-original-wordmark.svg" width="60" height="60">|<img src="assets/pycharm-original.svg" width="60" height="60">|<img src="assets/fastapi-original-wordmark.svg" width="60" height="60">|<img src="assets/django-plain-wordmark.svg" width="60" height="60">|<img src="assets/djangorest-original.svg" width="60" height="60">|<img src="assets/flask-original-wordmark.svg" width="60" height="60">| <img src="assets/pytest-original.svg" width="60" height="60"> |
 
 <h3 align="left">Databases and tools for interacting with them: :chart_with_upwards_trend:</h3>
 
-| PostgreSQL | Redis | SQLAlchemy | DBeaver | ClickHouse                                               |
-|------------|-------|------------|---------|----------------------------------------------------------|
-|<img src="assets/postgresql-original-wordmark.svg" width="60" height="60">|<img src="assets/redis-original-wordmark.svg" width="60" height="60">|<img src="assets/sqlalchemy-original-wordmark.svg" width="60" height="60">|<img src="assets/dbeaver-original.svg" width="60" height="60">| <img src="assets/clickhouse.png" width="60" height="60"> |
+| PostgreSQL | Redis | ClickHouse | Elasticsearch | SQLAlchemy  | DBeaver |
+|------------|-------|------------|---------------|-------------|---------|
+|<img src="assets/postgresql-original-wordmark.svg" width="60" height="60">|<img src="assets/redis-original-wordmark.svg" width="60" height="60">| <img src="assets/clickhouse.png" width="60" height="60"> | <img src="assets/elasticsearch-original.svg" width="60" height="60"> | <img src="assets/sqlalchemy-original-wordmark.svg" width="60" height="60"> | <img src="assets/dbeaver-original.svg" width="60" height="60">  |
 
 <h3 align="left">Frontend: :art: </h3>
 
@@ -66,15 +66,15 @@
 
 <h3 align="left">OS: :gift_heart:</h3>
 
-| Linux | Ubuntu | Windows                                               |
-|-------|--------|-------------------------------------------------------|
-|<img src="assets/linux-original.svg" width="60" height="60">|<img src="assets/ubuntu-original-wordmark.svg" width="60" height="60">| <img src="assets/windows.png" width="60" height="60"> |
+| Unix | Linux | Ubuntu | Windows |
+|------|-----|--------|---------|
+| <img src="assets/unix-original.svg" width="60" height="60"> |<img src="assets/linux-original.svg" width="60" height="60">|<img src="assets/ubuntu-original-wordmark.svg" width="60" height="60">| <img src="assets/windows.png" width="60" height="60"> |
 
 <h3 align="left">Other tools and technologies: :raised_hands:</h3>
 
-| Bash | Docker | Git | GitHub | GitLab | Postman | Insomnia | Swagger | Poetry | RabbitMQ | Kafka                                               |
-|------|--------|-----|--------|--------|---------|----------|---------|--------|----------|-----------------------------------------------------|
-|<img src="assets/bash-plain.svg" width="60" height="60">|<img src="assets/docker-original.svg" width="60" height="60">|<img src="assets/git-original-wordmark.svg" width="60" height="60">|<img src="assets/github-original-wordmark.svg" width="60" height="60">|<img src="assets/gitlab-original-wordmark.svg" width="60" height="60">|<img src="assets/postman-original.svg" width="60" height="60">|<img src="assets/insomnia-original.svg" width="60" height="60">|<img src="assets/swagger-original-wordmark.svg" width="60" height="60">|<img src="assets/poetry-original.svg" width="60" height="60">|<img src="assets/rabbitmq-original-wordmark.svg" width="60" height="60"> | <img src="assets/kafka.png" width="60" height="60"> |
+| Bash  | Docker | Git | GitHub | GitLab | Postman | Insomnia | Swagger | Poetry | RabbitMQ | Kafka | Jira | Kibana | Nginx |
+|-------|--------|-----|--------|--------|---------|----------|---------|--------|----------|-------|------|--------|-------|
+| <img src="assets/bash-plain.svg" width="60" height="60"> |<img src="assets/docker-original.svg" width="60" height="60">|<img src="assets/git-original-wordmark.svg" width="60" height="60">|<img src="assets/github-original-wordmark.svg" width="60" height="60">|<img src="assets/gitlab-original-wordmark.svg" width="60" height="60">|<img src="assets/postman-original.svg" width="60" height="60">|<img src="assets/insomnia-original.svg" width="60" height="60">|<img src="assets/swagger-original-wordmark.svg" width="60" height="60">|<img src="assets/poetry-original.svg" width="60" height="60">|<img src="assets/rabbitmq-original-wordmark.svg" width="60" height="60"> | <img src="assets/kafka.png" width="60" height="60"> | <img src="assets/jira-original.svg" width="60" height="60"> | <img src="assets/kibana-original.svg" width="60" height="60"> | <img src="assets/nginx-original.svg" width="60" height="60"> |
 
 </div>
 
@@ -85,11 +85,19 @@
 <p>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergeyRusanovv)](https://github.com/anuraghazra/github-readme-stats)</p> -->
 
 <div id="stat" align="center">
+    <a href="https://github.com/SergeyRusanovv/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergeyRusanovv&layout=compact" alt="Top Languages"/>
+    </a>
+</div>
+<div id="stat" align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SergeyRusanovv&theme=github_dark" alt=""/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SergeyRusanovv&theme=github_dark" alt=""/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SergeyRusanovv&theme=github_dark" alt=""/>
-     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SergeyRusanovv&theme=github_dark" alt=""/>
 </div>
 
 <p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+    <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
+
+<p align="center">
+
 </p>
