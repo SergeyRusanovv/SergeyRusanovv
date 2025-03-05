@@ -91,7 +91,7 @@
 </div>
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="profile-night-rainbow">
+  <img src="./profile-3d-contrib/profile-night-view.svg" alt="profile-night-rainbow">
 </p>
 
 <p align="center">
