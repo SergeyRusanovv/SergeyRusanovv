@@ -84,21 +84,16 @@
 <!-- <p>[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SergeyRusanovv&theme=codestackr&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)</p>
 <p>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergeyRusanovv)](https://github.com/anuraghazra/github-readme-stats)</p> -->
 
-<div id="stat" align="center">
-    <a href="https://github.com/SergeyRusanovv/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergeyRusanovv&layout=compact" alt="Top Languages"/>
-    </a>
-</div>
+
 <div id="stat" align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SergeyRusanovv&theme=github_dark" alt=""/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SergeyRusanovv&theme=github_dark" alt=""/>
 </div>
 
 <p align="center">
-    <img width="1000" src="assets/github-snake.svg" alt="snake"/>
-</p>
-
-<p align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="profile-night-rainbow">
 </p>
 
+<p align="center">
+    <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
