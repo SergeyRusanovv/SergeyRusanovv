@@ -98,5 +98,7 @@
     <img width="1000" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
-<p align="center">[![](./profile-3d-contrib/profile-night-rainbow.svg)]</p>
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="profile-night-rainbow">
+</p>
 
