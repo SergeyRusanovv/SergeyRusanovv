@@ -98,6 +98,5 @@
     <img width="1000" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
-<p align="center">
-    ![](./profile-3d-contrib/profile-green-animate.svg)
-</p>
+<p align="center">[![](./profile-3d-contrib/profile-green-animate.svg)]</p>
+
