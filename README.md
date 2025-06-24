@@ -48,33 +48,39 @@
 <div align="left">
     <h3 align="left">Languages and frameworks: :bulb:</h3>
 
-| Python3 | PyCharm | FastAPI | Django | DRF |Flask| Pytest |
-|---------|---------|---------|--------|-----|-----|--------|
-|<img src="assets/python-original-wordmark.svg" width="60" height="60">|<img src="assets/pycharm-original.svg" width="60" height="60">|<img src="assets/fastapi-original-wordmark.svg" width="60" height="60">|<img src="assets/django-plain-wordmark.svg" width="60" height="60">|<img src="assets/djangorest-original.svg" width="60" height="60">|<img src="assets/flask-original-wordmark.svg" width="60" height="60">| <img src="assets/pytest-original.svg" width="60" height="60"> |
+| Languages                                                                  | Frameworks                                                                                                                                                                                                                                       | Testing  |
+|----------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|
+| ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python) | ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi) <br> ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django) <br> ![Flask](https://img.shields.io/badge/-Flask-000?style=flat&logo=flask) | ![Pytest](https://img.shields.io/badge/-Pytest-4B8BBE?style=flat&logo=pytest) |
 
-<h3 align="left">Databases and tools for interacting with them: :chart_with_upwards_trend:</h3>
+### 🗄️ Databases & Storages
 
-| PostgreSQL | Redis | ClickHouse | Elasticsearch | SQLAlchemy  | DBeaver |
-|------------|-------|------------|---------------|-------------|---------|
-|<img src="assets/postgresql-original-wordmark.svg" width="60" height="60">|<img src="assets/redis-original-wordmark.svg" width="60" height="60">| <img src="assets/clickhouse.png" width="60" height="60"> | <img src="assets/elasticsearch-original.svg" width="60" height="60"> | <img src="assets/sqlalchemy-original-wordmark.svg" width="60" height="60"> | <img src="assets/dbeaver-original.svg" width="60" height="60">  |
+| Relational        | NoSQL / Search           | ORM / Tools               |
+|-------------------|--------------------------|---------------------------|
+| ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql) | ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis) <br> ![ClickHouse](https://img.shields.io/badge/-ClickHouse-40BFFF?style=flat&logo=clickhouse) | ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-000?style=flat&logo=sqlalchemy) <br> ![DBeaver](https://img.shields.io/badge/-DBeaver-4BA0E8?style=flat&logo=dbeaver) |
+|                   | ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat&logo=elasticsearch) |                           |
 
-<h3 align="left">Frontend: :art: </h3>
+### 🧰 Dev & Messaging
 
-| CSS3 | HTML5 | Markdown |
-|------|-------|----------|
-|<img src="assets/html5-original.svg" width="60" height="60">|<img src="assets/css3-original.svg" width="60" height="60">|<img src="assets/markdown-original.svg" width="60" height="60">|
+| Category                    | Tools                                                                                                         |
+|-----------------------------|---------------------------------------------------------------------------------------------------------------|
+| **Containers & VCS**        | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker) <br> ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git) <br> ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github) <br> ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab) |
+| **CI/CD & Packaging**       | ![Poetry](https://img.shields.io/badge/-Poetry-DAA520?style=flat&logo=python)                                 |
+| **Messaging & Streaming**   | ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq) <br> ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=apachekafka) |
+| **API & Documentation**     | ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger) <br> ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman) <br> ![Insomnia](https://img.shields.io/badge/-Insomnia-4000BF?style=flat&logo=insomnia) |
+| **Monitoring & Logging**    | ![Kibana](https://img.shields.io/badge/-Kibana-005571?style=flat&logo=kibana) <br> ![Nginx](https://img.shields.io/badge/-Nginx-269539?style=flat&logo=nginx) |
+| **Project Management**      | ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira)                                        |
 
-<h3 align="left">OS: :gift_heart:</h3>
+### 🎨 Frontend & Markdown
 
-| Unix | Linux | Ubuntu | Windows |
-|------|-----|--------|---------|
-| <img src="assets/unix-original.svg" width="60" height="60"> |<img src="assets/linux-original.svg" width="60" height="60">|<img src="assets/ubuntu-original-wordmark.svg" width="60" height="60">| <img src="assets/windows.png" width="60" height="60"> |
+| Markup & Styles | Documentation |
+|-----------------|---------------|
+| ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5) <br> ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3) | ![Markdown](https://img.shields.io/badge/-Markdown-000?style=flat&logo=markdown) |
 
-<h3 align="left">Other tools and technologies: :raised_hands:</h3>
+### 🖥️ Operating Systems
 
-| Bash  | Docker | Git | GitHub | GitLab | Postman | Insomnia | Swagger | Poetry | RabbitMQ | Kafka | Jira | Kibana | Nginx |
-|-------|--------|-----|--------|--------|---------|----------|---------|--------|----------|-------|------|--------|-------|
-| <img src="assets/bash-plain.svg" width="60" height="60"> |<img src="assets/docker-original.svg" width="60" height="60">|<img src="assets/git-original-wordmark.svg" width="60" height="60">|<img src="assets/github-original-wordmark.svg" width="60" height="60">|<img src="assets/gitlab-original-wordmark.svg" width="60" height="60">|<img src="assets/postman-original.svg" width="60" height="60">|<img src="assets/insomnia-original.svg" width="60" height="60">|<img src="assets/swagger-original-wordmark.svg" width="60" height="60">|<img src="assets/poetry-original.svg" width="60" height="60">|<img src="assets/rabbitmq-original-wordmark.svg" width="60" height="60"> | <img src="assets/kafka.png" width="60" height="60"> | <img src="assets/jira-original.svg" width="60" height="60"> | <img src="assets/kibana-original.svg" width="60" height="60"> | <img src="assets/nginx-original.svg" width="60" height="60"> |
+| Primary               |
+|-----------------------|
+| ![Linux](https://img.shields.io/badge/-Linux-000?style=flat&logo=linux) <br> ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu) <br> ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows) <br> ![Unix](https://img.shields.io/badge/-Unix-000?style=flat&logo=unix) |
 
 </div>
 
